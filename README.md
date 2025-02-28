@@ -1,30 +1,81 @@
-Hi there! 👋 I'm Henil Patel
-🚀 Passionate Computer Science Engineer | Tech Enthusiast | Full-Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=🚀+Henil+Patel+%7C+Computer+Science+Engineer;Tech+Enthusiast+%7C+Problem+Solver+%7C+Full-Stack+Developer" />
+</p>
 
-"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
+---
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Tech+Enthusiast+%7C+Web+Developer+%7C+AI+Learner;Full-Stack+Development+%7C+UI%2FUX+Designer;Problem+Solver+%7C+Innovator+%7C+Lifelong+Learner" /> </p>
-🌟 About Me
-💡 Tech Enthusiast | Web Developer | System Designer
-🔧 Specializing in Full-Stack Development & UI/UX
-🚀 Working on Online Voting Systems, Event Management Platforms, AI-powered apps
-📚 Constantly learning new tech stacks & improving problem-solving skills
+# **Hi there! 👋 I'm Henil Patel**  
+🚀 **Passionate Computer Science Engineer | Tech Enthusiast | Problem Solver**  
 
-💻 Tech Stack & Skills
+> *"Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."*  
 
-💻 Languages: C, Java, Python, JavaScript
-🌐 Frontend: HTML, CSS, React, Tailwind CSS
-⚙️ Backend: Node.js, Express.js
-🗄️ Databases: MySQL, MongoDB
-🛠 Tools & Platforms: Git, GitHub, VS Code, Linux
+---
 
+## **🚀 About Me**  
+- 🖥 **Tech Enthusiast | Web Developer | System Designer**  
+- 📌 Specializing in **Full-Stack Development & UI/UX**  
+- 📊 Building **online voting systems, event management platforms, AI-driven applications**  
+- 📚 Constantly **learning & exploring new tech stacks**  
 
+---
 
-📊 GitHub Stats
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=henil10109&show_icons=true&theme=radical" /> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=henil10109&theme=radical" /> </p> <p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henil10109&layout=compact&theme=radical" /> </p>
-🌎 Let's Connect!
-📌 Portfolio: your-portfolio.com
-🔗 LinkedIn: Henil Patel
-📧 Email: patelhenil0109@gmail.com
+## **🛠 Tech Stack & Skills**  
 
-✨ "Keep innovating, keep building, and never stop learning!" 🚀
+### **💻 Languages**  
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
+
+### **🌐 Frontend Development**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
+
+### **⚙️ Backend & Databases**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)  
+
+### **🛠 Tools & Platforms**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)  
+
+---
+
+## **📊 GitHub Stats**  
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=henil10109&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=henil10109&theme=radical" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henil10109&layout=compact&theme=radical" />
+</p>
+
+---
+
+## **🌍 Connect With Me**  
+
+<p align="center">
+  <a href="https://your-portfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=web" />
+  </a>
+  <br>
+  <a href="https://www.linkedin.com/in/henil-patel-82503b2a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-Henil%20Patel-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <br>
+  <a href="mailto:patelhenil0109@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Click%20to%20Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
+
+---
+
+## **✨ Keep innovating, keep building, and never stop learning! 🚀**  
