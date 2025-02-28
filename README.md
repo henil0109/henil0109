@@ -59,27 +59,27 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=henil0109&theme=radical" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henil0109&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 ---
 
 ## **🌍 Connect With Me**  
 
 <p align="center">
-  <a href="https://your-portfolio.com">
+<!--  <a href="https://your-portfolio.com">
     <img src="https://img.shields.io/badge/Portfolio-Click%20Here-blueviolet?style=for-the-badge&logo=web" />
   </a>
-  <br>
+  <br> -->
   <a href="https://www.linkedin.com/in/henil-patel-82503b2a6/">
     <img src="https://img.shields.io/badge/LinkedIn-Henil%20Patel-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <br>
   <a href="mailto:patelhenil0109@gmail.com">
     <img src="https://img.shields.io/badge/Email-Click%20to%20Contact-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.instagram.com/your_instagram_username/" target="_blank">
+  </a><BR>
+  <a href="https://www.instagram.com/henill_patell01?igsh=OXh1cGNlYTZkeWto" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
