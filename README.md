@@ -56,12 +56,12 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=henil0109&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=henil0109&theme=radical" />
-</p>
+ <!-- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=henil0109&theme=radical" />
+</p>-->
 
-<!--<p align="center">
+<p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henil0109&layout=compact&theme=radical" />
-</p> -->
+</p> 
 
 ---
 
